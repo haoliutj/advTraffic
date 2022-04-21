@@ -1,0 +1,13 @@
+# exclude mac os file
+.DS_Store
+**/test.py
+
+# exclude folder
+**/__pycache__
+**/model
+**/fig
+**/data
+**/result
+**/DefenseGAN
+**/WalkieTalkie
+**/.idea
