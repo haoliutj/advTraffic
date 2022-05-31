@@ -1,6 +1,6 @@
 # AdversarialTraffic
 
-This repository contains the implementation of adversarial examples of network traffic in website fingerprinting. We implemented four differenct adversarial example generation methods, like FGSM, DeepFool, PGD and advGAN, orginally introduced in image domain, we customized them to apply on network traffic.
+This repository contains the implementation of adversarial examples of network traffic in website fingerprinting. We implemented four different adversarial example generation methods, like FGSM, DeepFool, PGD and advGAN, orginally introduced in image domain, we customized them to apply on network traffic.
 
 ** The data set and code for research purpose only**
 
